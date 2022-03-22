@@ -1,1 +1,12 @@
+Title: Using reinforcement learning to create attacker agents for Cyberbattle Sim to evaluate the effectiveness of the defensive agents.
+
+
+Freddie Barrell an21440@nristol.ac.uk
+Supervisor: Matthew Edwards matthew.john.edwards@bristol.ac.uk
+
+Keywords: Cybersecurity, Reinforcement learning
+
+Abstract: I will create agents for the python-based open ai gym cyberbattle sim, which is used to research interactions between agents on an abstract network enviroment. I will research techniques used in real life for adverse behaviour and use reinforcement learning to implement these techniques into the agents I create. I will then run my agents against the different defensive agents to evaluate their effectiveness at stopping attacks.
+
+Introduction: Research used techniques and isolate a few, study how to implement reinforced learning in code, learn how to use cyberbattle sim platform to create and run new agents, test the agents and evaluate their performance. Challenges include using cyberbattle sim and learning reinforcement learning. The scope of this is that hopefully when I am finished and I publish my agents they will be used to test defensive algorithms to combat adverse behaviours, using such open ai environments is becoming a more popular technique for fighting cyber crime.
 
